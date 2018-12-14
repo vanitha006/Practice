@@ -1,6 +1,11 @@
+import org.apache.log4j.Logger;
+
 import java.io.*;
 
+
 public class ExceptionHandling {
+
+    final static Logger logger=Logger.getLogger(ExceptionHandling.class.getName());
     public static void main(String args[])
     {
         BufferedReader br=new BufferedReader((new InputStreamReader(System.in)));
@@ -19,12 +24,14 @@ public class ExceptionHandling {
                 }
                 catch(ArrayIndexOutOfBoundsException e){
                     System.out.println("Array index out of bounds exception");
+                    logger.warn("Array index out of bound exception");
                 }
                 try {
                     FileReader file = new FileReader("demo.txt");
                 }
                 catch (FileNotFoundException e){
                     System.out.println("File not found");
+                    logger.error("File not found exception");
                 }
                 catch (Exception e){
                     System.out.println(e);
@@ -33,9 +40,13 @@ public class ExceptionHandling {
                 try{
                     int c=a/b;
                     System.out.println("Quotient: "+c);
-                }catch(ArithmeticException e){
+                    logger.info("Quotient: "+c);
+                }
+                catch(ArithmeticException e){
                     System.out.println("Arithmetic Exception");
-                }catch (Exception e){
+                    logger.warn("Arithmetic exception");
+                }
+                catch (Exception e){
                     System.out.println("Exception occured: "+e);
                 }
                 finally {
@@ -44,6 +55,7 @@ public class ExceptionHandling {
             }
             catch(NumberFormatException e){
                 System.out.println("Number format exception");
+                logger.warn("Number Format exception");
             }
             catch(IOException e){
                 System.out.println("IO Exception");
@@ -53,4 +65,4 @@ public class ExceptionHandling {
             }
 
         }
-    }
+}
