@@ -1,3 +1,7 @@
 2018-12-14 18:25:55 WARN  ExceptionHandling:27 - Array index out of bound exception
 2018-12-14 18:25:55 ERROR ExceptionHandling:34 - File not found exception
 2018-12-14 18:25:55 INFO  ExceptionHandling:43 - Quotient: 2
+2018-12-14 18:46:57 WARN  ExceptionHandling:27 - Array index out of bound exception
+2018-12-14 18:46:57 ERROR ExceptionHandling:34 - File not found exception
+2018-12-14 18:46:57 INFO  ExceptionHandling:43 - Quotient: 2
+2018-12-17 13:21:21 WARN  ExceptionHandling:58 - Number Format exception
