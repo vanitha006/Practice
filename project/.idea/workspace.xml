@@ -2,35 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb39d28b-dbe5-40fc-adc5-5b221d26d0df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../EmployeeDetails/src/main/java/VelocityDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EmployeeDetails/src/main/java/helloworld.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoproject/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmployeeDetails/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeDetails/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/log/mylog.log" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeDetails/log/mylog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeDetails/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/src/main/java/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeDetails/src/main/java/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeDetails/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeDetails/target/classes/ExceptionHandling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeDetails/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/DBTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/DemoDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/EmployeeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/EnumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/ExceptionHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/FullTimeEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/ReadWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/SingletonDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/SingletonPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/SlfDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/TransactionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeDetails/target/classes/VelocityDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySql" beforeDir="false" afterPath="$PROJECT_DIR$/../MySql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demoproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/src/main/java/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/src/main/java/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/src/main/java/SignupServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/src/main/java/SignupServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/classes/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/classes/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/classes/SignupServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/classes/SignupServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/classes/Welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/classes/Welcome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/demoproject.war" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/demoproject.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/demoproject/WEB-INF/classes/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/demoproject/WEB-INF/classes/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/demoproject/WEB-INF/classes/SignupServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/demoproject/WEB-INF/classes/SignupServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/demoproject/WEB-INF/classes/Welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/demoproject/WEB-INF/classes/Welcome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demoproject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../demoproject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/project.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/project.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tomcattest" beforeDir="false" afterPath="$PROJECT_DIR$/../tomcattest" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="60">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -125,8 +117,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
     <option name="y" value="44" />
-    <option name="width" value="1279" />
-    <option name="height" value="668" />
+    <option name="width" value="1281" />
+    <option name="height" value="704" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -134,7 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,13 +171,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544616374452" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demoproject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stdapp" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -217,9 +209,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25737053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2613546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,20 +275,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="60">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
